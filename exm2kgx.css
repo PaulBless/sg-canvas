@@ -1,0 +1,43 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * greycliff-cf:
+ *   - http://typekit.com/eulas/00000000000000007735fa47
+ *   - http://typekit.com/eulas/00000000000000007735fa4c
+ *   - http://typekit.com/eulas/00000000000000007735fa4d
+ *   - http://typekit.com/eulas/00000000000000007735fa4e
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2022-03-31 09:48:45 UTC"}*/
+
+@import url("p-12.css");
+
+@font-face {
+font-family:"greycliff-cf";
+src:url("af/4a5f61/00000000000000007735fa47/30/l") format("woff2"),url("af/4a5f61/00000000000000007735fa47/30/d") format("woff"),url("af/4a5f61/00000000000000007735fa47/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"greycliff-cf";
+src:url("af/58c760/00000000000000007735fa4c/30/l") format("woff2"),url("af/58c760/00000000000000007735fa4c/30/d") format("woff"),url("af/58c760/00000000000000007735fa4c/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"greycliff-cf";
+src:url("af/31979f/00000000000000007735fa4d/30/l") format("woff2"),url("af/31979f/00000000000000007735fa4d/30/d") format("woff"),url("af/31979f/00000000000000007735fa4d/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"greycliff-cf";
+src:url("af/39cc4b/00000000000000007735fa4e/30/l") format("woff2"),url("af/39cc4b/00000000000000007735fa4e/30/d") format("woff"),url("af/39cc4b/00000000000000007735fa4e/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-greycliff-cf { font-family: "greycliff-cf",sans-serif; }

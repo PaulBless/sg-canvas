@@ -1,0 +1,45 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * paralucent:
+ *   - http://typekit.com/eulas/00000000000000007735f0d1
+ *   - http://typekit.com/eulas/00000000000000007735f0cb
+ *   - http://typekit.com/eulas/00000000000000007735f0d2
+ * paralucent-text:
+ *   - http://typekit.com/eulas/00000000000000007735b480
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2022-02-21 12:56:48 UTC"}*/
+
+@import url("p-10.css");
+
+@font-face {
+font-family:"paralucent";
+src:url("af/7596b6/00000000000000007735f0d1/30/l") format("woff2"),url("af/7596b6/00000000000000007735f0d1/30/d") format("woff"),url("af/7596b6/00000000000000007735f0d1/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent";
+src:url("af/80bf8a/00000000000000007735f0cb/30/l") format("woff2"),url("af/80bf8a/00000000000000007735f0cb/30/d") format("woff"),url("af/80bf8a/00000000000000007735f0cb/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent";
+src:url("af/70bbaf/00000000000000007735f0d2/30/l") format("woff2"),url("af/70bbaf/00000000000000007735f0d2/30/d") format("woff"),url("af/70bbaf/00000000000000007735f0d2/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent-text";
+src:url("af/cf3100/00000000000000007735b480/30/l") format("woff2"),url("af/cf3100/00000000000000007735b480/30/d") format("woff"),url("af/cf3100/00000000000000007735b480/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-paralucent { font-family: "paralucent",sans-serif; }
+.tk-paralucent-text { font-family: "paralucent-text",sans-serif; }

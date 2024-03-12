@@ -1,0 +1,73 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * acumin-pro:
+ *   - http://typekit.com/eulas/00000000000000003b9acafc
+ *   - http://typekit.com/eulas/00000000000000003b9acaf8
+ *   - http://typekit.com/eulas/00000000000000003b9acaf6
+ *   - http://typekit.com/eulas/00000000000000003b9acafa
+ * larken:
+ *   - http://typekit.com/eulas/0000000000000000774c4d8f
+ *   - http://typekit.com/eulas/0000000000000000774c4d90
+ *   - http://typekit.com/eulas/0000000000000000774c4d95
+ *   - http://typekit.com/eulas/0000000000000000774c4d91
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2023-05-17 15:31:25 UTC"}*/
+
+@import url("p-7.css");
+
+@font-face {
+font-family:"acumin-pro";
+src:url("af/6d4bb2/00000000000000003b9acafc/27/l") format("woff2"),url("af/6d4bb2/00000000000000003b9acafc/27/d") format("woff"),url("af/6d4bb2/00000000000000003b9acafc/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"acumin-pro";
+src:url("af/829fc1/00000000000000003b9acaf8/27/l") format("woff2"),url("af/829fc1/00000000000000003b9acaf8/27/d") format("woff"),url("af/829fc1/00000000000000003b9acaf8/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"acumin-pro";
+src:url("af/46da36/00000000000000003b9acaf6/27/l") format("woff2"),url("af/46da36/00000000000000003b9acaf6/27/d") format("woff"),url("af/46da36/00000000000000003b9acaf6/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"acumin-pro";
+src:url("af/027dd4/00000000000000003b9acafa/27/l") format("woff2"),url("af/027dd4/00000000000000003b9acafa/27/d") format("woff"),url("af/027dd4/00000000000000003b9acafa/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"larken";
+src:url("af/3167c3/0000000000000000774c4d8f/30/l") format("woff2"),url("af/3167c3/0000000000000000774c4d8f/30/d") format("woff"),url("af/3167c3/0000000000000000774c4d8f/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"larken";
+src:url("af/e4ca2a/0000000000000000774c4d90/30/l") format("woff2"),url("af/e4ca2a/0000000000000000774c4d90/30/d") format("woff"),url("af/e4ca2a/0000000000000000774c4d90/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"larken";
+src:url("af/af5a5b/0000000000000000774c4d95/30/l") format("woff2"),url("af/af5a5b/0000000000000000774c4d95/30/d") format("woff"),url("af/af5a5b/0000000000000000774c4d95/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"larken";
+src:url("af/61489c/0000000000000000774c4d91/30/l") format("woff2"),url("af/61489c/0000000000000000774c4d91/30/d") format("woff"),url("af/61489c/0000000000000000774c4d91/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-acumin-pro { font-family: "acumin-pro",sans-serif; }
+.tk-larken { font-family: "larken",sans-serif; }

@@ -1,0 +1,52 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * neue-haas-grotesk-display:
+ *   - http://typekit.com/eulas/00000000000000007735bb5a
+ *   - http://typekit.com/eulas/00000000000000007735bb62
+ * new-kansas:
+ *   - http://typekit.com/eulas/00000000000000007735fe1c
+ *   - http://typekit.com/eulas/00000000000000007735fe1d
+ *   - http://typekit.com/eulas/00000000000000007735fe1e
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2023-03-31 13:02:43 UTC"}*/
+
+@import url("p-2.css");
+
+@font-face {
+font-family:"neue-haas-grotesk-display";
+src:url("af/1ba16c/00000000000000007735bb5a/30/l") format("woff2"),url("af/1ba16c/00000000000000007735bb5a/30/d") format("woff"),url("af/1ba16c/00000000000000007735bb5a/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"neue-haas-grotesk-display";
+src:url("af/153042/00000000000000007735bb62/30/l") format("woff2"),url("af/153042/00000000000000007735bb62/30/d") format("woff"),url("af/153042/00000000000000007735bb62/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"new-kansas";
+src:url("af/f74113/00000000000000007735fe1c/30/l") format("woff2"),url("af/f74113/00000000000000007735fe1c/30/d") format("woff"),url("af/f74113/00000000000000007735fe1c/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"new-kansas";
+src:url("af/7909cc/00000000000000007735fe1d/30/l") format("woff2"),url("af/7909cc/00000000000000007735fe1d/30/d") format("woff"),url("af/7909cc/00000000000000007735fe1d/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"new-kansas";
+src:url("af/53fbc6/00000000000000007735fe1e/30/l") format("woff2"),url("af/53fbc6/00000000000000007735fe1e/30/d") format("woff"),url("af/53fbc6/00000000000000007735fe1e/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+.tk-neue-haas-grotesk-display { font-family: "neue-haas-grotesk-display",sans-serif; }
+.tk-new-kansas { font-family: "new-kansas",sans-serif; }
